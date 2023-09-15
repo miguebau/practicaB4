@@ -1,0 +1,12 @@
+.small-text {
+    font-size: 12px;
+    /* Ajusta el tamaño de la fuente según tus preferencias */
+  }
+
+
+  .card {
+    border: none;
+    /* Quita el borde */
+    background-color: #f0f0f096;
+    /* Cambia el fondo a gris */
+  }
